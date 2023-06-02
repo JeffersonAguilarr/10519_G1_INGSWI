@@ -3,3 +3,4 @@ Grupo numero 1
 Hola Jeffeson escribir los integrantes
 Joseph Mihaell Andino Campos 
 Alan Joel Almeida Garófalo
+Mateo Israel Amaguaya Allauca
