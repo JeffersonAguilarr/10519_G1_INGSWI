@@ -3,10 +3,10 @@ Grupo 1
 
 Hola Jeffeson escribir los integrantes:
 
-Joseph Mihaell Andino Campos,
+Joseph Mihaell Andino Campos
 
-Jefferson Antonio Aguilar Gonzalez,
+Jefferson Antonio Aguilar Gonzalez
 
-Alan Joel Almeida Garófalo,
+Alan Joel Almeida Garófalo
 
-Mateo Israel Amaguaya Allauca,
+Mateo Israel Amaguaya Allauca
